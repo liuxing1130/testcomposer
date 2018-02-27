@@ -1,2 +1,2 @@
 # testcomposer
-composer   liuxing1130 aaa
+composer   liuxing1130 aaa  aaa
